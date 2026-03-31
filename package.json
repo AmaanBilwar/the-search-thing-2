@@ -10,6 +10,8 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@ff-labs/fff-bun": "^0.4.2"
+    "@ff-labs/fff-bun": "^0.4.2",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2"
   }
 }
